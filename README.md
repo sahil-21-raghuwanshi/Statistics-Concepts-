@@ -32,20 +32,11 @@
   
   __3)Mode =__ (find most frequently occurring value )= i.e __60__
   
-  | Attempt | marks | marks - mean|(marks - mean)^2|
-  | :---: | :---: |:---: |:---: |
-  |  1    | 65| 5 |25|
-  |  2    | 60| 0|0|
-  |  3    | 50|10|100|
-  |  4    | 55|5|25|
-  |  5    | 80|20|400|
-  |  6    | 60|0|0|
-  |  7    | 75|15|225|
-  |  8    | 60|0|0|
+  __4)Variance :__ (find the mean first, then compute the squared difference between each score and the mean) i.e
+               [(65 - 63.125)^2 + (60 - 63.125)^2 + ... + (60 - 63.125)^2] / 8   = (3.765625 + 9.515625 + ... + 9.515625) / 8 == 53.828125 / 8
+                __≈ 6.728515625__
   
-  __4)Variance :__ (find the mean first, then compute the squared difference between each score and the mean) i.e 25+100+25+400+225/8 =96
-  
-  __5)Standard Deviation:__ The standard deviation is the square root of the variance. √(96) =9.79
+  __5)Standard Deviation:__ The standard deviation is the square root of the variance. =√(6.728515625) __≈2.595__
            
                     
 
