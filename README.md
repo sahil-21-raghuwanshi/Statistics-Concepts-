@@ -37,6 +37,26 @@
                 __≈ 6.728515625__
   
   __5)Standard Deviation:__ The standard deviation is the square root of the variance. =√(6.728515625) __≈2.595__
+
+__What is outliers?__
+- Outliers are an observation of data that does not fit into  the rest of the data.
+- Are extreme values that differ from most other data points in a dataset.
+
+__Way to find outlier in data__
+ 1) Using Z-scores
+ 2) Using the Interquartile Range to Create Outlier Fences
+
+__1)Using Z-scores__
+- Z score = (x -mean) / std. deviation
+    
+__2)Using the Interquartile Range(IQR)__
+- IQR is used to measure variability by dividing a data set into quartiles
+- Steps to find out IQR
+   - Q1 represents the 25th percentile of the data.
+   - Q3 represents the 75th percentile of the data.
+   - The difference between Q3 and Q1 is called the Inter-Quartile Range or IQR.
+   - Lower Bound: (Q1 - 1.5 * IQR)
+   - Upper Bound: (Q3 + 1.5 * IQR)
            
                     
 
