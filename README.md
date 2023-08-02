@@ -37,6 +37,18 @@
                 __≈ 6.728515625__
   
   __5)Standard Deviation:__ The standard deviation is the square root of the variance. =√(6.728515625) __≈2.595__
+Quartiles divide a dataset into four parts: 
+
+__Percentile:__
+  - It is value below which a certain percentage observation lie.
+  - percentiles divide data into 100 equal parts.
+    
+__Quartiles:__
+  - Quartiles are the set of values that divide the data points into four identical values using three individual data points.
+  - Q1 = 25th Percentile
+  - Q2 = 50th Percentile or Median
+  - Q3 = 75th Percentile
+  
 
 __What is outliers?__
 - Outliers are an observation of data that does not fit into  the rest of the data.
