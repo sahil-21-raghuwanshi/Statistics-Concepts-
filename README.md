@@ -37,8 +37,18 @@
                 __≈ 6.728515625__
   
   __5)Standard Deviation:__ The standard deviation is the square root of the variance. =√(6.728515625) __≈2.595__
-Quartiles divide a dataset into four parts: 
+Quartiles divide a dataset into four parts.
 
+__Normal distribution__
+ - A Normal distribution has a probability distribution that is centered around the mean.
+ - This means that the distribution has more data around the mean.
+
+__standard normal distribution__ (z distribution) 
+  - It is a normal distribution with a mean of 0 and a standard deviation of 1.
+  - Any point (x) from a normal distribution can be converted to the standard normal distribution (z) with the formula z = (x-mean) / standard deviation.
+  - z for any particular x value shows how many standard deviations x is away from the mean for all x values.
+  - For example, if 1.4m is the height of a school pupil where the mean for pupils of his age/sex/ethnicity is 1.2m with a standard deviation of 0.4 then
+  - z = (1.4 - 1.2) / 0.4 = 0.5, i.e. the pupil is half a standard deviation from the mean (value at centre of curve).
 __Percentile:__
   - It is value below which a certain percentage observation lie.
   - percentiles divide data into 100 equal parts.
