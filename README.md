@@ -1,5 +1,8 @@
 # Statistics Concepts
- __Descriptive statistics__
+__1)Inferential Statistics__
+ - this offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain).
+   
+ __2)Descriptive statistics__
 - It is a branch of statistics that deals with summarizing, organizing, and presenting data in a meaningful and informative way.
 - Its primary goal is to describe and understand the main features of a dataset without making any inferences or generalizations to a larger population.
 - Descriptive statistics is often the first step in data analysis and is crucial for gaining insights into the underlying patterns, trends, and characteristics of the data.
